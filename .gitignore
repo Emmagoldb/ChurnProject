@@ -1,0 +1,5 @@
+*.sav
+*.sql
+
+Tableau Prep Export/
+.ipynb_Checkpoints/
